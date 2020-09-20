@@ -9,6 +9,8 @@ Semana 5: 14/09 - 21/09
 
 O que foi feito durante a semana:
 
-- Realizei os testes da [API do Google](https://developers.google.com/android-publisher/api-ref/rest/v3/reviews) para coleta de *reviews* e para minha infelicidade é necessário um registro no Google Play Console, um serviço pago.
-- O professor recomendou uma projeto externo: [Google Play API](https://github.com/facundoolano/google-play-api).
+- Realizei os testes da [API do Google](https://developers.google.com/android-publisher/api-ref/rest/v3/reviews) para coleta de *reviews* e para minha infelicidade é necessário um registro no Google Play Console, um serviço pago;
+- O professor recomendou uma projeto externo: [Google Play API](https://github.com/facundoolano/google-play-api);
+- Criei o git do projeto, mas ainda sem muita novidade: [Review-classifier](https://github.com/mautoz/reviews-classifier). Pretendo ir construindo aos poucos e pode ser que eu crie outro para separa as funcionalidades pretendidas;
+- Criei este blog para acompanhar a evolução!
 
