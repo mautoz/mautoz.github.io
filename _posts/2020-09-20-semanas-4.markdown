@@ -15,4 +15,4 @@ Durante a Semana 4, eu realizei a leitura do material recomendado pelo professor
 - Realizar a contagem das palavras mais utilizadas em *reviews* de usabilidade e possivelmente criar um meio de classificar manualmente alguns desses dados para facilitar no *machine learning*;
 - Pensar em medir a acurácia do algoritmo conforme aumentamos o número de *reviews* analizados. 
 
-![](https://raw.githubusercontent.com/mautoz/mautoz.github.io/master/assets/img/sklearn.png) 
+![](https://raw.githubusercontent.com/mautoz/mautoz.github.io/master/assets/img/python_sklearn.png) 
