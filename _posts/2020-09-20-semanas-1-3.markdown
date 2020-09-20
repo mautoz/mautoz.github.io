@@ -1,11 +1,16 @@
 ---
 layout: post
 title: "[ACH2018] Semanas 1 a 3"
-date: 2020-09-20 01:03:20 +0300
+date: 2020-09-20 01:15:20 +0300
 description: # Add post description (optional)
 img: semana1.jpg # Add image post (optional)
 ---
+Semana 1: 17/08 - 24/08
+Semana 2: 24/08 - 31/08
+Semana 3: 31/08 - 07/09
+
+
 As primeiras semanas foram dedicadas aos seguintes pontos:
 - Conversas iniciais com o professor para orientação dos possíveis temas;
 - Leitura dos textos indicados sobre o tema;
-- Elaboração e entraga do cronograma;
+- Desenvolvimento e entraga do cronograma no dia 07/09.
