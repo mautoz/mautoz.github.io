@@ -1,6 +1,6 @@
 # Git page do Mauricio
 
-A ideia inicial é servir de diário para a disciplina de ACH2018. Futuramente talvez eu faça posts relevantes no geral.
+A função desta página é servir de diário para os estudos e desenvolvimento do projeto de ACH2018. 
 
 
 ## Créditos do Template:

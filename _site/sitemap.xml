@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://mautoz.github.io/hello-world/</loc>
+<loc>http://localhost:4000/hello-world/</loc>
 <lastmod>2020-09-19T19:03:20-03:00</lastmod>
 </url>
 <url>
-<loc>https://mautoz.github.io/semanas-1-3/</loc>
+<loc>http://localhost:4000/semanas-1-3/</loc>
 <lastmod>2020-09-19T19:15:20-03:00</lastmod>
 </url>
 <url>
-<loc>https://mautoz.github.io/semanas-4/</loc>
+<loc>http://localhost:4000/semanas-4/</loc>
 <lastmod>2020-09-20T06:05:20-03:00</lastmod>
 </url>
 <url>
-<loc>https://mautoz.github.io/</loc>
+<loc>http://localhost:4000/semanas-5/</loc>
+<lastmod>2020-09-20T06:05:20-03:00</lastmod>
 </url>
 <url>
-<loc>https://mautoz.github.io/tags/</loc>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 </urlset>

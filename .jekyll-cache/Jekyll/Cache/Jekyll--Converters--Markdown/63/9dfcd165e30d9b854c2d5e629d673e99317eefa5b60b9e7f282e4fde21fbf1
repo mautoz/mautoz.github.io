@@ -1,9 +1,9 @@
-I"<p>Este blog servirá como um diário do que está sendo feito relacionado à disciplina ACH2018.</p>
+I"<p>Este blog servirá como um diário do que está sendo feito relacionado à disciplina ACH2018.</p>
 
 <p>Os objetivos do projeto, resumidamente, são:</p>
 <ul>
-  <li>Coletar e verificar uma forma de automatizar a coleta de <em>reviews</em> de aplicativos mobile;</li>
-  <li>Utilizar IA/PLN ou alguma tecnologia para tentar identificar dentre os <em>reviews</em>, aqueles relacionados à acessibilidade.</li>
+  <li>Coletar e verificar uma forma de automatizar a coleta de <em>reviews</em> de aplicativos mobile (app);</li>
+  <li>Utilizar IA/PLN ou alguma tecnologia para tentar identificar dentre os <em>reviews</em>, aqueles relacionados à acessibilidade (a11y).</li>
   <li>Qualificar essas decisões, ou seja, podemos confiar na seleção feita pelo método escolhido acima? Esses dados são tão bons quanto os coletados manualmente?</li>
 </ul>
 

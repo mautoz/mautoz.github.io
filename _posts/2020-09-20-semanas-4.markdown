@@ -7,12 +7,12 @@ img: sklearn.png # Add image post (optional)
 ---
 Semana 4: 07/09 - 14/09 
 
-Durante a Semana 4, eu realizei a leitura do material recomendado pelo professor que serviu de base e fortalecimento de algumas ideia. Além disso, realizei algumas tarefas:
+Durante a Semana 4 eu realizei a leitura do material recomendado pelo professor que serviu de base e fortalecimento de algumas ideias. Além disso, realizei as seguintes tarefas:
 
-- Iniciei os estudos de uma biblioteca em Python chama scikit-learn e que parece bastante promissora para *machine learning*;
+- Iniciei os estudos de uma biblioteca em *Python* chamada scikit-learn. Pparece bastante promissora para *machine learning*;
 - Pesquisei, mas não testei, formas de coletar reviews do Google Play Store e Apple Store. Ambos possuem APIs que serão estudadas;
 - Passei algumas ideias ao professor como a de armazenar os *reviews* em um bd SQL (se for mito heterogênos talvez um NoSQL);
-- Realizar a contagem das palavras mais utilizadas em *reviews* de usabilidade e possivelmente criar um meio de classificar manualmente alguns desses dados para facilitar no *machine learning*;
+- Outra ideia é realizar a contagem das palavras mais utilizadas em *reviews* de *a11y* e possivelmente criar um meio de classificar manualmente alguns desses dados para facilitar no *machine learning*;
 - Pensar em medir a acurácia do algoritmo conforme aumentamos o número de *reviews* analizados. 
 
 ![](https://raw.githubusercontent.com/mautoz/mautoz.github.io/master/assets/img/python_sklearn.png) 
