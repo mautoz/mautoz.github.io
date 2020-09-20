@@ -1,4 +1,4 @@
-title: Bem-vindo, ao (Git) Blog do Mautoz
+title: (Git) Blog do Mautoz
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,17 @@ url: "https://mautoz.github.io" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Mauricio # add your name
+author-img: eu.jpg # add your photo
+about-author: Olá! Eu sou o Mauricio e esse blog mostrará um pouco da minha atual rotina de estudos. # add description
+social-twitter: mautoz # add your Twitter handle
+social-facebook: mtavoz # add your Facebook handle
+social-github: mautoz # add your Github handle
+social-linkedin: mauricio-ozaki # add your Linkedin handle
+social-email: mauricioozaki@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
