@@ -3,7 +3,7 @@ layout: post
 title: "[ACH2018] Semana 4"
 date: 2020-09-20 12:05:20 +0300
 description: # Add post description (optional)
-img: sklearn.png # Add image post (optional)
+img: scikit-learn.png # Add image post (optional)
 ---
 Semana 4: 07/09 - 14/09 
 
