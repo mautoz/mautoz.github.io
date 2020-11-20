@@ -1,0 +1,22 @@
+---
+layout: post
+title: "[ACH2018] Semanas 9 a 13"
+date: 2020-11-16 00:00:00 +0300
+description: # Add post description (optional)
+img: estudando.jpg # Add image post (optional)
+---
+Semana 9: 12/10 - 19/10
+Semana 10: 19/10 - 26/10
+Semana 11: 02/11 - 09/11
+Semana 12: 09/08 - 16/11
+
+Algumas semas se passaram, mas não significa que não houve trabalho. Planejar como tratar os dados é mais demorado que programar. Mas, algumas decisões foram tomadas:
+
+- O texto deve ser colocado em minúsculo para evitar que uma simples letra maiúscula seja considerada torne uma palavra diferente;
+- acentos devem ser removidos em caso de pt-br;
+- e remover as stopwords: "de", "da", "a', "o"...
+
+Inicialmente, a ideia era só utilizar apredizado supervisionado, mas o não supervisionado parece promissor;
+A monogrofia ja começou a ser escrita em paralelo com o código!
+
+Mais mudanças serão feitas, mas não muito grandes pois estamos na reta final! =)
