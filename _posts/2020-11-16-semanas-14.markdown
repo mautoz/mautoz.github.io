@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[ACH2018] Semanas 14"
+title: "[ACH2018] Semana 14"
 date: 2020-11-26 00:00:00 +0300
 description: # Add post description (optional)
 img: reviews.png # Add image post (optional)
@@ -8,7 +8,7 @@ img: reviews.png # Add image post (optional)
 Semana 14: 16/08 - 23/11
 
 Semana de muito trabalho para a finalização do TCC!
-- Os reviews foram inseridos no BD e estão sendo "julgados" por humano. Inevitavelmente, não há como escapara do elemento humano!
+- Os reviews foram inseridos no BD e estão sendo "julgados" por humano. Inevitavelmente, não há como escapar do elemento humano!
 - O projeto final terá três repositórios Git independentes para melhor organização.
 - A parte escrita continua sendo escrita também!
 
