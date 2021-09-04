@@ -12,9 +12,9 @@ Mestrado começou (há alguns dias) e devo dizer que já estou cansado! Deixo a 
 
 Idealmente, seria legal ter uma dedicação exclusiva, ou seja, não trabalhar em nada e dedicar-se somente a vida acadêmica. Impossível nos dias de hoje.
 
-Como não nasci herdeiro, estou me dedicando fora do horário de trabalho o que me deixa com poucos momentos de descanso! Mas não vou reclamar, foi uma decisão que tomei e não pretendo desistir! A propósito será uma dissertação sobre Processamento Gráfico, mas ainda há muito o que ser discutido com meu orientador!
+Como não nasci herdeiro, estou me dedicando fora do horário de trabalho (incluindo fins de semana) o que me deixa com poucos momentos de descanso! Mas não vou reclamar, foi uma decisão que tomei e não pretendo desistir! A propósito, será uma dissertação sobre processamento gráfico. Ainda há muito o que ser discutido com meu orientador sobre o que exatamente vou fazer, porém já comecei as leituras!
 
-A partir de agora, vou tentar organizar melhor minha vida, dividindo o tempo com o trabalho, os estudos, diversão e tentar programar para meus projetos pessoais! O retorno para esta página é um pontapé inicial! 
+A partir de agora, vou tentar organizar melhor minha vida, dividindo o tempo com o trabalho, os estudos, diversão e tentar colocar em prática alguns projetos pessoais! O retorno para esta página é um pontapé inicial! 
 
 Pretendo publicar minha evolução por aqui pois acredito que a melhor maneira de aprender é ensinando! E acredito que conhecimento deve ser compartilhado!
 
