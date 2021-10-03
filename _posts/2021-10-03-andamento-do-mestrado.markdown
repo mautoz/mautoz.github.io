@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Início do Mestrado"
+title: "Dois meses de pós"
 date: 2021-10-03 16:05:00 +0300
 description: # Add post description (optional)
 img: Burnout.png # Add image post (optional)
