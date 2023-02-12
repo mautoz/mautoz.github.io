@@ -55,3 +55,21 @@ bundle exec jekyll serve
 ## More information from Jekyll
 
 [Jekyll Quick Start](https://jekyllrb.com/docs/)
+
+## How to create a project?
+
+* Create a markdown on _posts
+* If you want to create a "project", put:
+```
+project: true
+```
+below "excerpt"
+* If is just a post, don't put anything
+* The standard is:
+YYYY-MM-DD-Title-Post.md
+
+## Credits
+
+My favicon was a image from: [Web development icons created by Flat Icons - Flaticon](https://www.flaticon.com/free-icons/web-development)
+
+Background was downloaded from: [Pixabay](https://pixabay.com/)

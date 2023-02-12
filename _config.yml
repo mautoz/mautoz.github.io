@@ -1,11 +1,11 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Mauricio Tavares Ozaki
+bio:                'Software Developer / Retro games fan / Book Lover'
+description:        'More about me and social media links'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/code.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,23 +37,23 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              mauricioozaki@gmail.com
 twitter:            mauricioozaki
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+# facebook:           username
+github-url:         mautoz
+stackoverflow:      6542976/mautoz   # from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           mauricio-ozaki
 #xing:              username
-instagram:          username
+instagram:          mauriciotoz
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              mauricioozaki
 #dribbble:          username
 #youtube:           username
-youtube-channel:    username
+youtube-channel:    mauricioozaki
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -61,13 +61,13 @@ youtube-channel:    username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-twitch:             username
-filmow:             username
-skoob:              id
-blog:               url
+twitch:             mauricioozaki
+filmow:             mautoz
+skoob:              44899
+blog:               https://www.tropadercy.com.br/
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
